@@ -28,17 +28,21 @@ main -  Hello World!
 12 - Área
 13 - O Maior
 14 - Consumo
-
-
+15 - Distância Entre Dois Pontos
+16 - Distância
+17 - Gasto de Combustível
+18 - Cédulas
+19 - Conversão de Tempo
 
 👤 Autor
 Feito com ☕ por Andressa Alves 
 Comunidade: Mais Meninas Tech 
-Curso em Video pelo Yotube 
+Curso em Video pelo Youtube 
 Professor Guanabara
 Curso Python #07-Operadores Aritméticos
 Curso Python #09 - Manipulando Texto
 Primeiros Comando Python 3
+Curso Python 17# -Listas(Parte 1 )
 
 Conecte-se comigo no LinkedIn : www.linkedin.com/in/andressa-alves-simão
 
